@@ -124,5 +124,5 @@ MIT License — free to use, modify, and distribute with attribution.
 
 ## ✨ Author
 
-**Ashish Saxena**  
+**Satwik Saxena**  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/satwik-12-dev)
