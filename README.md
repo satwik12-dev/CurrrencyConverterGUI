@@ -118,7 +118,7 @@ Converted Amount: 8335.10 INR
 
 ## 📌 License
 
-MIT License — free to use, modify, and distribute with attribution.
+Apache License — free to use, modify, and distribute with attribution.
 
 ---
 
