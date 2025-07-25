@@ -60,7 +60,7 @@ public class CurrencyConverterGUI extends JFrame {
     }
 
     private double getExchangeRate(String base, String target) throws IOException {
-        String apiKey = "YOUR API KEY"; // your API key
+        String apiKey = "6bfe811b4d4a5c80313033e5"; // your API key
         String url = "https://v6.exchangerate-api.com/v6/" + apiKey + "/latest/" + base;
 
         OkHttpClient client = new OkHttpClient();
